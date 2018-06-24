@@ -1,6 +1,6 @@
 FROM node:10.4
 
-# Create app directory
+# Create app directory -
 WORKDIR /usr/src/app
 
 # Install app dependencies
